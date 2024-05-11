@@ -1,0 +1,23 @@
+# Suma de dos números
+
+Este es un simple programa de Python que solicita al usuario dos números, los suma y luego muestra el resultado.
+
+## Uso
+
+1. Asegúrate de tener Python instalado en tu sistema.
+2. Clona o descarga este repositorio en tu máquina.
+3. Abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo `suma.py`.
+4. Ejecuta el programa escribiendo `python suma.py` y presiona Enter.
+5. Sigue las instrucciones en pantalla para ingresar los números que deseas sumar.
+
+## Ejemplo
+
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si tienes alguna mejora o corrección, no dudes en enviar un pull request.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, puedes contactarme a través de [mi correo electrónico](correo@example.com).
+
