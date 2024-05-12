@@ -1,3 +1,5 @@
+import math
+
 def calculadora():
     while True:
         print("Selecciona la operación que deseas realizar:")
@@ -5,11 +7,13 @@ def calculadora():
         print("2. Resta")
         print("3. Multiplicación")
         print("4. División")
-        print("5. Salir")
+        print("5. Potenciación")
+        print("6. Raíz cuadrada")
+        print("7. Salir")
 
         opcion = input("Ingresa el número de la operación: ")
 
-        if opcion == "5":
+        if opcion == "7":
             print("¡Hasta luego!")
             break
 
@@ -38,6 +42,17 @@ def calculadora():
                 for num in numeros[1:]:
                     resultado /= num
                 print("La división es:", resultado)
+            elif opcion == "5":
+                resultado = 1
+                for num in numeros:
+                    resultado **= num
+                print("La potenciación es:", resultado)
+            elif opcion == "6":
+                if len(numeros) == 1:
+                    resultado = math.sqrt(numeros[0])
+                    print("La raíz cuadrada es:", resultado)
+                else:
+                    print("Error: Solo se puede calcular la raíz cuadrada de un número.")
             else:
                 print("Opción no válida. Por favor, elige una opción válida.")
 

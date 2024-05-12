@@ -1,25 +1,18 @@
 # Calculadora Python
-Este es un script simple de Python que implementa una calculadora básica. Permite al usuario realizar operaciones de suma, resta, multiplicación y división con números ingresados por él mismo.
+Este es un simple programa de calculadora desarrollado en Python. Permite al usuario realizar operaciones básicas de suma, resta, multiplicación, división, potenciación y cálculo de raíz cuadrada.
 
-Funcionalidades
-Sumar números ingresados por el usuario.
-Restar números ingresados por el usuario.
-Multiplicar números ingresados por el usuario.
-Dividir números ingresados por el usuario.
-Opción para salir del programa.
-Requisitos
-Python 3.x instalado en tu sistema.
 Uso
-Clona o descarga este repositorio en tu sistema.
-
-Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo calculadora.py.
-
-Ejecuta el script escribiendo el siguiente comando y presionando Enter:
-
+Clona este repositorio en tu máquina local.
+Abre una terminal y navega hasta la carpeta donde clonaste el repositorio.
+Ejecuta el script calculadora.py con Python.
 bash
 Copy code
 python calculadora.py
-Sigue las instrucciones en la pantalla para realizar las operaciones deseadas.
-
-Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar este script, por favor, abre un pull request explicando los cambios que propones.
+Sigue las instrucciones en la terminal para seleccionar la operación deseada y proporcionar los números de entrada.
+Funcionalidades
+Suma: Calcula la suma de una lista de números.
+Resta: Calcula la resta de una lista de números.
+Multiplicación: Calcula el producto de una lista de números.
+División: Calcula la división de dos números.
+Potenciación: Calcula la potencia de un número elevado a otro.
+Raíz cuadrada: Calcula la raíz cuadrada de un número.
