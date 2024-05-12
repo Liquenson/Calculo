@@ -1,11 +1,25 @@
-# Suma de dos números
+# Calculadora Python
+Este es un script simple de Python que implementa una calculadora básica. Permite al usuario realizar operaciones de suma, resta, multiplicación y división con números ingresados por él mismo.
 
-Este es un simple programa de Python que solicita al usuario dos números, los suma y luego muestra el resultado.
+Funcionalidades
+Sumar números ingresados por el usuario.
+Restar números ingresados por el usuario.
+Multiplicar números ingresados por el usuario.
+Dividir números ingresados por el usuario.
+Opción para salir del programa.
+Requisitos
+Python 3.x instalado en tu sistema.
+Uso
+Clona o descarga este repositorio en tu sistema.
 
-## Uso
+Abre una terminal o línea de comandos en el directorio donde se encuentra el archivo calculadora.py.
 
-1. Asegúrate de tener Python instalado en tu sistema.
-2. Clona o descarga este repositorio en tu máquina.
-3. Abre una terminal o línea de comandos y navega hasta el directorio donde se encuentra el archivo `suma.py`.
-4. Ejecuta el programa escribiendo `python suma.py` y presiona Enter.
-5. Sigue las instrucciones en pantalla para ingresar los números que deseas sumar.
+Ejecuta el script escribiendo el siguiente comando y presionando Enter:
+
+bash
+Copy code
+python calculadora.py
+Sigue las instrucciones en la pantalla para realizar las operaciones deseadas.
+
+Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar este script, por favor, abre un pull request explicando los cambios que propones.
