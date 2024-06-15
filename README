@@ -1,18 +1,2 @@
 # Calculadora Python
 Este es un simple programa de calculadora desarrollado en Python. Permite al usuario realizar operaciones básicas de suma, resta, multiplicación, división, potenciación y cálculo de raíz cuadrada.
-
-Uso
-Clona este repositorio en tu máquina local.
-Abre una terminal y navega hasta la carpeta donde clonaste el repositorio.
-Ejecuta el script calculadora.py con Python.
-bash
-Copy code
-python calculadora.py
-Sigue las instrucciones en la terminal para seleccionar la operación deseada y proporcionar los números de entrada.
-Funcionalidades
-Suma: Calcula la suma de una lista de números.
-Resta: Calcula la resta de una lista de números.
-Multiplicación: Calcula el producto de una lista de números.
-División: Calcula la división de dos números.
-Potenciación: Calcula la potencia de un número elevado a otro.
-Raíz cuadrada: Calcula la raíz cuadrada de un número.
